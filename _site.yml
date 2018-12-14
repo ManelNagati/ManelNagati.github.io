@@ -1,0 +1,41 @@
+name: Manel Nagati
+output_dir: '.'
+navbar:
+  title: Manel Nagati
+  type: inverse
+  left:
+  - text: Home
+    icon: fa-home
+    href: index.html
+  
+   
+  - text: My projects
+    menu:
+      
+      - text: Gumbel distribution
+        href: https://www.kaggle.com/nagatimanel/gumbel-distribution
+      - text: Linear regression simulator
+        href: https://appghada.herokuapp.com/appghada
+        
+     
+  
+  - text: My CV
+    href: https://github.com/ManelNagati/CV/blob/master/CV.Manel.N.pdf
+ 
+  right:
+  - icon: fa-envelope fa-lg
+    href: https://mail.google.com/mail/u/0/#inbox
+  - icon: fa-github fa-lg
+    href: https://github.com/ManelNagati
+  - icon: fa-linkedin fa-lg
+    href: https://www.linkedin.com/in/manel-nagati-22a819170/
+  - icon: fa-facebook fa-lg
+    href: https://www.facebook.com/manel.nagati
+output:
+  html_document:
+    theme: cosmo 
+    highlight: textmate
+    css: styles.css
+    lib_dir: site_libs
+    self_contained: no
+

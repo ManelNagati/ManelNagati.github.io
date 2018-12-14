@@ -1,0 +1,48 @@
+
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+
+
+<img src="images/pic.jpg" style="float: right; width:15%; border:1px solid; margin-right: 20px" align="left">
+
+
+  
+# {.tabset .tabset-fade .tabset-pills}
+
+## About me
+
+
+Manel Nagati , an ingeneer student of Statistics at the [*Ecole Supérieure de la Statistique et de l'Analyse de l'Information*](http://www.essai.rnu.tn/accueil.htm) 
+
+
+
+
+So feel free to [contact me](mailto:nagatimanel10a@gmail.com) 
+
+
+<iframe src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fmalouche.github.io&width=163&layout=button_count&action=like&size=large&show_faces=true&share=true&height=46&appId=874215545998179" width="163" height="46" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
+
